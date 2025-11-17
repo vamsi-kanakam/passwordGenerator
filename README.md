@@ -71,4 +71,4 @@ This makes the tool safer than many online password generators.
 ## 🖥️ Demo
 
 You can try the password generator live here:  
-*(Add your GitHub Pages link here)*
+*[Live](https://vamsi-kanakam.github.io/passwordGenerator/)*
