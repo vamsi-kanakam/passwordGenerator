@@ -72,10 +72,3 @@ This makes the tool safer than many online password generators.
 
 You can try the password generator live here:  
 *(Add your GitHub Pages link here)*
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.  
-Feel free to modify or improve it.
